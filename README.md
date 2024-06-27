@@ -24,6 +24,4 @@ Tailwind CSS
 - 🎨 Animations using Framer Motion
 - 🏠 LightHouse score near 100
 - 🔨 Husky & Lint Staged to lint and format code before committing
-- ✅ Conventional commit lint to ensure commit messages follow the conventional commit format (Work In Progress)
 - 💄 Prettier for code formatting
-- 👷🏻‍♂️ t3-env to validate environment variables before building
