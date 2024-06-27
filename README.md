@@ -19,8 +19,6 @@ This project is my personal portfolio website, built to showcase my skills and p
 - 📱 Responsive design
 - 🌗 Light / Dark mode
 - 📈 SEO optimized with meta tags
-- 🗺 Sitemap (Work In Progress)
-- 📊 Sentry (setup required)
 - 🎨 Animations using Framer Motion
 - 🏠 LightHouse score near 100
 - 🔨 Husky & Lint Staged to lint and format code before committing
