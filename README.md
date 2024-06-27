@@ -4,10 +4,10 @@ This project is my personal portfolio website, built to showcase my skills and p
 
 ## 🚀 Tech Stack
 
-Next.js
-shadcn/ui
-Framer Motion
-Tailwind CSS
+-Next.js
+-Shadcn/ui
+-Framer Motion
+-Tailwind CSS
 
 ## ✨ Features
 
