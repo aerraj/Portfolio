@@ -9,7 +9,6 @@ import {
   Contact,
   Footer
 } from '@/components/sections';
-
 import Preloader from '@/components/preloader/preloader';
 import Cursor from '@/components/cursor/cursor';
 import SmoothScroll from '@/components/smooth-scroll';
@@ -22,11 +21,14 @@ export default function Home() {
         <Header loader={true} />
         <main className="flex-1">
           <Hero />
+          
           <About />
           <Projects />
           <Skills />
+          
           <Experience />
           {/* <Testimonials /> */}
+
           <Contact />
           <Footer />
         </main>
